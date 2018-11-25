@@ -2,6 +2,7 @@
 A Game Project
 
 Requirments:
+
 1. Python 3. 
 
 2. Numpy Library For Python.
